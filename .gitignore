@@ -1,0 +1,7 @@
+node_modules
+.env
+dist
+.vercel
+
+# macOS
+.DS_Store
